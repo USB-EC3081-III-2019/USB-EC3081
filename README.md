@@ -41,5 +41,5 @@ Otros:
 - Solicitar acceso al grupo de la materia [@USB-EC3081-III-2019](https://github.com/USB-EC3081-III-2019).
 - Editar la lista a continuación agregando un enlace a su pefil de GitHub:
   * Novel Certad [@ncertad](https://github.com/ncertad) 
-  * Enmanuel Alfonzo [@GEnma29](https://github.com/GEnma29)
+  * Victor García[@Victor_vmg] (https://github.com/VictorVmg)
 
