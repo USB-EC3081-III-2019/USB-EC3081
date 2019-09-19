@@ -43,4 +43,4 @@ Otros:
   * Novel Certad [@ncertad](https://github.com/ncertad) 
   * José Villalobos [@Jose0p3](https://github.com/Jose0p3)
   * Karlhianna Gonzalez [@karlhianna](https://github.com/karlhianna)
-  * Victor García [@Victor_Vmg] (https://github.com/VictorVmg)
+  * Victor García [@Victor_Vmg](https://github.com/VictorVmg)
