@@ -25,20 +25,20 @@
 # define _XTAL_FREQ 4000000
 
 void main(void) {
-    /*Tabla con los valores de los dígitos en 7 segmentos*/
+    /*Tabla con los valores de los dÃ­gitos en 7 segmentos*/
     /* digito  =        0    1    2    3    4    5    6    7    8    9  */
-    char display[10] = {0x3F,0x06,0xB5,0x4F,0x69,0x6D,0x5F,0x07,0x6F,0x6F};
+    char display[10] = {0xBF,0x86,0xDB,0xCF,0xE6,0xED,0xFD,0x87,0xFF,0xEF};
     int medida = 0;
     
-    /*INICIALIZACIÓN DE LOS PUERTOS*/
+    /*INICIALIZACIÃ“N DE LOS PUERTOS*/
     TRISA=0b11101011;
     TRISC=0b00000000;//PORTC como salida
     TRISD=0b00000000;//PORTD como salida
     
-    /*INICIALIZACIÓN DE INTERRUPCIONES*/
+    /*INICIALIZACIÃ“N DE INTERRUPCIONES*/
     INTCON=0;//limpieza del registro INTCON
     INTCONbits.GIE=1;//Habilitacion de interrupciones
-    /*INICIALIZACIÓN DEL CONVERSOR ANALÓGICO A DIGITAL*/
+    /*INICIALIZACIÃ“N DEL CONVERSOR ANALÃ“GICO A DIGITAL*/
     ADCON0=0b10000000; //Configuracion del registro ADCON0
     // un solo canal ADC
     ADCON1=0b10001110; //Configuracion del registro ADCON1
@@ -56,9 +56,9 @@ void main(void) {
     __delay_ms(100);
    
     while(1){
-         ADCON0bits.GO=1;//Inicia la conversión por ADC
-         while (ADCON0bits.GO==1){}// espera a que la conversión esté lista
-         medida = ADRESH*256 + ADRESL; //en medida se guarda el valor de la conversión
+         ADCON0bits.GO=1;//Inicia la conversiÃ³n por ADC
+         while (ADCON0bits.GO==1){}// espera a que la conversiÃ³n estÃ© lista
+         medida = ADRESH*256 + ADRESL; //en medida se guarda el valor de la conversiÃ³n
 
     }*/
     return;
