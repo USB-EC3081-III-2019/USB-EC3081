@@ -40,6 +40,7 @@ Otros:
 - una vez registrado solicitar acceso a este repositorio.
 - Solicitar acceso al grupo de la materia [@USB-EC3081-III-2019](https://github.com/USB-EC3081-III-2019).
 - Editar la lista a continuación agregando un enlace a su pefil de GitHub:
+- Grupo 00:
   * Novel Certad [@ncertad](https://github.com/ncertad) 
   * José Villalobos [@Jose0p3](https://github.com/Jose0p3)
   * Karlhianna Gonzalez [@karlhianna](https://github.com/karlhianna)
@@ -47,3 +48,16 @@ Otros:
   * Orazio Portillo [@01z4r0](https://github.com/01z4r0)
   * Enmanuel Alfonzo [@GEnma29](https://github.com/GEnma29)
   * Bensedi Acosta [@bensediacosta](https://github.com/bensediacosta)
+- Grupo 01:
+- Grupo 02:
+- Grupo 03:
+
+## Actividad 2
+  Cada grupo debe crear su repositorio para la materia siguiendo la siguiente estructura: 
+* Nombre del repositorio: 'EC3081-GXX' sustituyendo XX por el número del grupo (utilizando dos dígitos). De esta forma el primer grupo tendrá el repositorio EC3081-G01 y así sucesivamente. 
+* Cada repositorio debe conrener un archivo README.md donde se presenta el grupo
+  /docs/
+firmware/proyecto.X/main.c
+hardware/circuito.pdsprj
+software/
+README.md
