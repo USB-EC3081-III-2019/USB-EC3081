@@ -42,4 +42,5 @@ Otros:
 - Editar la lista a continuación agregando un enlace a su pefil de GitHub:
   * Novel Certad [@ncertad](https://github.com/ncertad) 
   * _Nombre y apellido_ enlace al perfil
+  * Orazio Portillo [@01z4r0](https://github.com/01z4r0)
 
