@@ -41,6 +41,4 @@ Otros:
 - Solicitar acceso al grupo de la materia [@USB-EC3081-III-2019](https://github.com/USB-EC3081-III-2019).
 - Editar la lista a continuación agregando un enlace a su pefil de GitHub:
   * Novel Certad [@ncertad](https://github.com/ncertad) 
-  * _Nombre y apellido_ enlace al perfil
-  * Orazio Portillo [@01z4r0](https://github.com/01z4r0)
-
+  * José Villalobos [@Jose0p3](https://github.com/Jose0p3)
