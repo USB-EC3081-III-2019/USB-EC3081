@@ -45,3 +45,4 @@ Otros:
   * Karlhianna Gonzalez [@karlhianna](https://github.com/karlhianna)
   * Victor García [@Victor_Vmg](https://github.com/VictorVmg)
   * Orazio Portillo [@01z4r0](https://github.com/01z4r0)
+  * Enmanuel Alfonzo [@GEnma29](https://github.com/GEnma29)
