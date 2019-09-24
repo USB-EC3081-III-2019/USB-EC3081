@@ -57,12 +57,9 @@ Otros:
 ## Actividad 2 (en construcción)
   Cada grupo debe crear su repositorio para la materia siguiendo la siguiente estructura: 
 * Nombre del repositorio: 'EC3081-GXX' sustituyendo XX por el número del grupo (utilizando dos dígitos). De esta forma el primer grupo tendrá el repositorio EC3081-G01 y así sucesivamente. 
-* Cada repositorio debe conrener un archivo README.md donde se presenta el grupo
-  /docs/
-firmware/proyecto.X/main.c
-hardware/circuito.pdsprj
-software/
-README.md
+* Cada repositorio debe contener un archivo README.md donde se presenta el grupo
+* Utilice el siguiente repositorio como plantilla [ECXXXX-GXX](https://github.com/ncertad/ECXXXX-GXX)
+* recuerde que debe crear el repositorio dentro de la organización: USB-EC3081-III-2019
 
-USB-EC3081-III-2019/EC3081-G00 generated from ncertad/ECXXXX-GXX
+
 
