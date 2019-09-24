@@ -42,11 +42,9 @@ Otros:
 - Editar la lista a continuación agregando un enlace a su pefil de GitHub:
 - Grupo 00:
   * Novel Certad [@ncertad](https://github.com/ncertad) 
-  * José Villalobos [@Jose0p3](https://github.com/Jose0p3)
-  * Karlhianna Gonzalez [@karlhianna](https://github.com/karlhianna)
+- Grupo 01:
   * Orazio Portillo [@01z4r0](https://github.com/01z4r0)
   * Bensedi Acosta [@bensediacosta](https://github.com/bensediacosta)
-- Grupo 01:
 - Grupo 02:
   * Enmanuel Alfonzo [@GEnma29](https://github.com/GEnma29)
   * Victor García [@Victor_Vmg](https://github.com/VictorVmg)
