@@ -51,6 +51,8 @@ Otros:
   * Enmanuel Alfonzo [@GEnma29](https://github.com/GEnma29)
   * Victor García [@Victor_Vmg](https://github.com/VictorVmg)
 - Grupo 03:
+  * José Villalobos [@Jose0p3](https://github.com/Jose0p3)
+  * Karlhianna Gonzalez [@karlhianna](https://github.com/karlhianna)
 
 ## Actividad 2 (en construcción)
   Cada grupo debe crear su repositorio para la materia siguiendo la siguiente estructura: 
