@@ -58,9 +58,9 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
  Grupo | Nombre y Apellido | Carné | perfil
 ------ | ----------------- | ----- | -------------
 00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 
-01 | Orazio Portillo | xx-xxxxx | [@01z4r0](https://github.com/01z4r0)
-01 | Bensedi Acosta | xx-xxxxx  | [@bensediacosta](https://github.com/bensediacosta)
-02 | Enmanuel Alfonzo | xx-xxxxx | [@GEnma29](https://github.com/GEnma29)
-02 | Victor García | xx-xxxxx | [@Victor_Vmg](https://github.com/VictorVmg)
-03 | José Villalobos| xx-xxxxxxx | [@Jose0p3](https://github.com/Jose0p3)
-03 | Karlhianna Gonzalez | xx-xxxxx| [@karlhianna](https://github.com/karlhianna)
+01 | Orazio Portillo | 15-11152 | [@01z4r0](https://github.com/01z4r0)
+01 | Bensedi Acosta | 12-06824  | [@bensediacosta](https://github.com/bensediacosta)
+02 | Enmanuel Alfonzo | 14-05775 | [@GEnma29](https://github.com/GEnma29)
+02 | Victor García | 15-11592 | [@Victor_Vmg](https://github.com/VictorVmg)
+03 | José Villalobos| 15-11517 | [@Jose0p3](https://github.com/Jose0p3)
+03 | Karlhianna Gonzalez | 15-10596| [@karlhianna](https://github.com/karlhianna)
